@@ -1,4 +1,4 @@
-MediGuide Pakistan – AI-Powered Medicine Information Assistant
+#MediGuide Pakistan – AI-Powered Medicine Information Assistant
 
 Final project for the Building AI course
 
