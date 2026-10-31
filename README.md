@@ -2,11 +2,11 @@
 
 Final project for the Building AI course
 
-Summary
+## Summary
 
 MediGuide Pakistan is an AI-powered assistant that helps people understand medicine information in simple English and Urdu. It aims to make reliable medicine information more accessible while encouraging users to consult qualified healthcare professionals.
 
-Background
+## Background
 
 Many people in Pakistan struggle to understand medicine labels, medical terminology, possible side effects, and precautions. This can be especially challenging for people in areas where access to reliable health information is limited.
 
@@ -46,7 +46,7 @@ The project could use publicly available and appropriately licensed medicine inf
 - "MedlinePlus" (https://medlineplus.gov/)
 - Official medicine leaflets and product information, subject to permission and licensing.
 
-AI techniques
+## AI techniques
 
 The proposed system could use:
 
@@ -59,7 +59,7 @@ The proposed system could use:
 
 The initial prototype could use Python and a small, carefully verified collection of medicine information.
 
-Challenges
+## Challenges
 
 MediGuide Pakistan has important limitations:
 
@@ -74,7 +74,7 @@ Privacy, data protection, transparency, and medical safety must be considered th
 
 The system must clearly explain that it provides educational information and does not replace professional medical advice.
 
-What next?
+## What next?
 
 Possible future improvements include:
 
@@ -88,7 +88,7 @@ Possible future improvements include:
 
 My long-term goal is to develop a trustworthy and accessible healthcare information platform that can support people across Pakistan.
 
-Acknowledgments
+## Acknowledgments
 
 - University of Helsinki and Reaktor Innovations for the Building AI course.
 - Drug Regulatory Authority of Pakistan (DRAP) for its role in medicine regulation and public information.
